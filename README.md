@@ -1,13 +1,3 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHprZ3NiZ2hnNmMyZzhqcHpmYmlnODJkaWNjOHZqODVqZnkwdXRmZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9fRSPzztIQ5m7zHexl/giphy.gif"  />
-</div>
-
-###
-
-<p data-importer="text" align="left">Self-taught. I don't do CS but like to code anyways</p>
-
-###
-
 <h1 data-importer="text" align="left">Stacks and Stats:</h1>
 
 ###
@@ -35,6 +25,12 @@
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/WrinklyMango1234/WrinklyMango1234/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/WrinklyMango1234/WrinklyMango1234/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHprZ3NiZ2hnNmMyZzhqcHpmYmlnODJkaWNjOHZqODVqZnkwdXRmZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9fRSPzztIQ5m7zHexl/giphy.gif"  />
 </div>
 
 ###
