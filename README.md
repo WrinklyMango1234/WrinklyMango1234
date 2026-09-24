@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Stacks, Stats, and Socials:</h1>
+<h1 data-importer="text" align="center">Stacks Stats and Socials</h1>
 
 ###
 
