@@ -1,4 +1,10 @@
-<h1 data-importer="text" align="center">Stacks Stats and Socials</h1>
+<h1 data-importer="text" align="center"></h1>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/WrinklyMango1234/WrinklyMango1234/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
 ###
 
@@ -18,9 +24,7 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/WrinklyMango1234/WrinklyMango1234/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+<h1 data-importer="text" align="center"></h1>
 
 ###
 
@@ -35,5 +39,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="52" height="40" alt="patreon logo"  />
 </div>
+
+###
+
+<h1 data-importer="text" align="center"></h1>
 
 ###
