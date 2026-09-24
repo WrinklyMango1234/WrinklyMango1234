@@ -27,21 +27,3 @@
 <h1 data-importer="text" align="center"></h1>
 
 ###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHprZ3NiZ2hnNmMyZzhqcHpmYmlnODJkaWNjOHZqODVqZnkwdXRmZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9fRSPzztIQ5m7zHexl/giphy.gif"  />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="52" height="40" alt="patreon logo"  />
-</div>
-
-###
-
-<h1 data-importer="text" align="center"></h1>
-
-###
