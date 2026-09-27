@@ -1,3 +1,9 @@
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHprZ3NiZ2hnNmMyZzhqcHpmYmlnODJkaWNjOHZqODVqZnkwdXRmZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9fRSPzztIQ5m7zHexl/giphy.gif"  />
+</div>
+
+###
+
 <h1 data-importer="text" align="center"></h1>
 
 ###
