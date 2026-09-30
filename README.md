@@ -8,10 +8,6 @@
 
 ###
 
-
-
-###
-
 <div data-importer="techs" align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" height="40" alt="lua logo"  />
   <img width="12" />
